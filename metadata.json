@@ -1,0 +1,6 @@
+{
+  "name": "MedRAG - Doctor Intelligence & Medical RAG Platform",
+  "description": "Production-grade Advanced RAG platform for verified doctor intelligence, multi-tier source provenance, hybrid retrieval, conflict resolution, and knowledge graph exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
